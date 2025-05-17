@@ -2,7 +2,7 @@
   <img src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" >
 </div>
 <div id = "counter" align = "center">
-<img src="https://komarev.com/ghpvc/?username=vishvpatel010&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=vishvpatel02&style=flat-square&color=blue" alt=""/>
 </div>
 <h3 align = "center">
   hey there, I'm Vishv Patel
@@ -31,10 +31,10 @@
 
 ## Activity Graph:
 
-[![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishvpatel010&theme=transparent)](https://github.com/vishvpatel010/)
+[![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishvpatel02&theme=transparent)](https://github.com/vishvpatel02/)
 
 ## 📊 Github Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishvpatel010&show_icons=true&theme=transparent&layout=donut)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishvpatel02&show_icons=true&theme=transparent&layout=donut)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishvpatel010&theme=transparent)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishvpatel02&theme=transparent)
