@@ -2,7 +2,7 @@
 
 # Hi, I'm Vishv Patel 👋
 
-### Backend / Platform Engineer building systems that scale reliably
+### Platform Engineer building AI agent orchestration & scalable backend systems on AWS
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vishvpatel.dev-1e2327?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.vishvpatel.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vishvpatel02-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishvpatel02)
@@ -14,8 +14,8 @@
 
 ### 🚀 About Me
 
-- 🔧 Currently working as an **Associate Platform Engineer Trainee** at **Wonderlend Hubs Pvt. Ltd.**, building AI-agent automation pipelines and core platform services on AWS.
-- 📚 I've explored full-stack development (React, Next.js, MongoDB, etc.) in the past purely for learning — it's not my area of depth, my current focus is backend & platform engineering.
+- 🔧 Currently working as an **Associate Platform Engineer** at **Wonderlend Hubs Pvt. Ltd.**, building AI-agent orchestration pipelines and core platform services on AWS.
+- 🤖 Focused on LLM & agent orchestration, semantic retrieval (pgvector/RAG), and scalable backend infrastructure for production FinTech systems.
 - 🎓 B.Tech in Computer Science & Engineering, Nirma University.
 
 ---
@@ -30,12 +30,10 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+**AI & Agents**
+![LLM](https://img.shields.io/badge/LLM%20Orchestration-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%2F%20Semantic%20Retrieval-412991?style=flat-square&logo=openai&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Backend & APIs**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
